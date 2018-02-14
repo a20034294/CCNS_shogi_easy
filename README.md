@@ -1,0 +1,1 @@
+# CCNS_shogi_easy
